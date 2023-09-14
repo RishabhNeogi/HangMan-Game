@@ -1,4 +1,3 @@
-alert("Sorry For the delay, Shivani Mam and Suresh Sir");
   const buttonA = document.getElementById("buttonA");
   const buttonB = document.getElementById("buttonB");
   const buttonC = document.getElementById("buttonC");
